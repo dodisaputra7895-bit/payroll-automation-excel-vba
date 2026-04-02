@@ -3,6 +3,8 @@
 An automated payroll management system built using Microsoft Excel and VBA to streamline salary processing, generate payslips, and provide interactive data insights through dashboards.
 
 ---
+⭐ If you find this project useful, feel free to give it a star!
+---
 
 ## 📌 Project Overview
 Manual payroll processing is often time-consuming and prone to human error.  
