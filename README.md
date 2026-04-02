@@ -1,15 +1,24 @@
-# payroll-automation-excel-vba
-Excel VBA-based payroll automation system with interactive dashboard and automated payslip generation.
-
 # 💼 Payroll Automation System (Excel VBA)
 
-## 📌 Description
-This project is an automated payroll management system built using Microsoft Excel and VBA. It helps HR generate employee payslips automatically and analyze payroll data through an interactive dashboard.
+An automated payroll management system built using Microsoft Excel and VBA to streamline salary processing, generate payslips, and provide interactive data insights through dashboards.
+
+---
+
+## 📌 Project Overview
+Manual payroll processing is often time-consuming and prone to human error.  
+This project aims to solve that problem by developing an automated and structured payroll system using Excel and VBA.
+
+The system integrates data management, automated calculation, and visualization into a single, user-friendly solution.
+
+---
 
 ## 🎯 Objectives
-- Automate payslip generation
-- Reduce human error in payroll processing
-- Provide data insights through visualization
+- Automate employee payslip generation
+- Improve accuracy in payroll processing
+- Reduce manual workload for HR tasks
+- Provide data insights through an interactive dashboard
+
+---
 
 ## ⚙️ Tools & Technologies
 - Microsoft Excel
@@ -17,21 +26,57 @@ This project is an automated payroll management system built using Microsoft Exc
 - Pivot Table
 - Data Visualization
 
-## 📊 Features
-- Employee salary database
-- Automated payslip generation (VBA-based)
-- Interactive dashboard
-- Data analysis using Pivot Table
+---
+
+## 📊 Key Features
+- 📁 Structured employee salary database  
+- 🧾 Automated payslip generation using VBA  
+- 📊 Interactive payroll dashboard  
+- 📈 Data aggregation and analysis using Pivot Table  
+- ⚡ User-friendly and efficient workflow  
+
+---
+
+## 🧩 System Workflow
+Input Data → Process (VBA Automation) → Generate Payslip → Dashboard Visualization
+
+---
 
 ## 📸 Preview
-(Add your screenshots here later)
+*(Add your screenshots below)*
+
+![Dashboard](dashboard.png)  
+![Payslip](slip.png)
+
+---
 
 ## 🚀 How to Use
-1. Open the Excel file
-2. Input employee data
-3. Click the generate payslip button
-4. View the generated payslip
-5. Explore the dashboard
+1. Open the Excel file: `Payroll_Automation_System_VBA.xlsx`  
+2. Input employee data in the designated sheet  
+3. Run the VBA button to generate payslips  
+4. Review generated payslips automatically  
+5. Use the dashboard to analyze payroll data  
 
-## 📈 Impact
-This system improves efficiency, reduces manual errors, and speeds up payroll processing.
+---
+
+## 📈 Impact & Value
+- ⏱ Reduces payroll processing time  
+- ❌ Minimizes human error  
+- 📊 Improves data visibility for decision-making  
+- 📁 Centralizes payroll data in one system  
+
+---
+
+## 📌 Future Improvements
+- Integration with database (SQL)  
+- Export payslip to PDF automatically  
+- Enhanced dashboard interactivity  
+- Multi-user support  
+
+---
+
+## 👤 Author
+**Dodi Saputra**  
+Aspiring Data Analyst | Excel & VBA Enthusiast  
+
+📬 Open for feedback and collaboration
