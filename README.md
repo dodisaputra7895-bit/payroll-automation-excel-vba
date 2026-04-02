@@ -43,10 +43,9 @@ Input Data → Process (VBA Automation) → Generate Payslip → Dashboard Visua
 ---
 
 ## 📸 Preview
-*(Add your screenshots below)*
 
-![Dashboard](dashboard.png)  
-![Payslip](slip.png)
+![Dashboard](Dashboard.png)  
+![Payslip](Slip.png)
 
 ---
 
